@@ -44,7 +44,11 @@
       <artifactId>hibernate-validator</artifactId>
       <version>5.4.3.Final</version>
     </dependency>
-
+    <dependency>
+      <groupId>com.oracle</groupId>
+      <artifactId>ojdbc14</artifactId>
+      <version>10.2.0.4.0</version>
+    </dependency>
 
   </dependencies>
 
